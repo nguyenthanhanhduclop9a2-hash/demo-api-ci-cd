@@ -15,4 +15,4 @@ jobs:
         - name: Chạy kịch bản Monitor trực tiếp từ Cloud
           # Thay ID của Collection Monitor và ID của Environment vào đây
           run: |
-            postman collection run "ID_CỦA_COLLECTION_MONITOR"
+            postman collection run "59055765-f21f8d7e-d6a1-4783-a7b2-ab872b9f24d4"
